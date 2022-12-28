@@ -1,8 +1,8 @@
 # video-converter
 A simple video format converter
-
 ## How to use :
 /!\ ffmpeg have to be installed /!\
+
  The Simple Python version :
    - Open the video_converter_simple.py file
    - Change the input_file path to your video location, with the name and format of the video
